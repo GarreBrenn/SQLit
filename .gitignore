@@ -1,0 +1,32 @@
+# Mainly copied from CIRDLES Topsoil
+
+# Gradle
+.gradle/
+build/
+gradlew
+gradlew.bat
+settings.gradle
+
+# Netbeans
+nbactions.xml
+.nb-*
+
+# Intellij
+.idea/
+out/
+*.iml
+
+# TestFX
+screenshot*.png
+
+# logs
+*.log
+
+# JavaScript
+node_modules/
+
+# Vim
+*.swp
+
+# OS X
+.DS_Store
