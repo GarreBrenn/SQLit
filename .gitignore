@@ -3,9 +3,6 @@
 # Gradle
 .gradle/
 build/
-gradlew
-gradlew.bat
-settings.gradle
 
 # Netbeans
 nbactions.xml
